@@ -1,0 +1,56 @@
+p {
+  text-align: justify;
+}
+
+.article-w {
+  width: 70%;
+  float: left;
+  margin-right: 5%;
+}
+
+.aside-w {
+  width: 25%;
+  display: flex;
+}
+
+.img-responsive {
+  width: 100%;
+  min-height: 1px;
+}
+
+.star-h {
+  height: 15px;
+  width: 15px;
+}
+
+.list-style-none {
+  list-style: none;
+}
+
+.blue {
+  background-color: #b0c4de;
+}
+
+.sky {
+  background-color: #f8f9fa;
+}
+
+.border {
+  border: 1px solid grey;
+}
+
+.p-1 {
+  padding: 10px;
+}
+
+.p-2 {
+  padding: 20px;
+}
+
+.d-inline-block {
+  display: inline-block;
+}
+
+.tA-center {
+  text-align: center;
+}

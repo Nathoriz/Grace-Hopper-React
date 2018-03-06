@@ -8,9 +8,22 @@
     "react-scripts": "1.1.1"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "set PORT=3006 && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "![Grace Hopper](https://fotos.subefotos.com/12827bcc2c956c898ab792e1fa1000d5o.png)\r >Grace Hopper",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathoriz/Grace-Hopper-React.git"
+  },
+  "author": "Melissa Diaz Ortiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nathoriz/Grace-Hopper-React/issues"
+  },
+  "homepage": "https://github.com/Nathoriz/Grace-Hopper-React#readme"
 }
+
